@@ -1,3 +1,6 @@
+# This fork requires react-native-gesture-handler as a dev dependency. This allows the component to be used in an absolutely positioned view.
+
+
 # react-native-google-places-autocomplete
 
 **Customizable Google Places autocomplete component for iOS and Android React-Native apps**
