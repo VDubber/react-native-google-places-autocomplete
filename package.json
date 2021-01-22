@@ -42,7 +42,8 @@
     "typescript": "^3.8.3"
   },
   "peerDependencies": {
-    "react-native": ">= 0.59"
+    "expo": ">= 39.0.0",
+    "react-native-gesture-handler": ">= 1.7.0"
   },
   "husky": {
     "hooks": {
